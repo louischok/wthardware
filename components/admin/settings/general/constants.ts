@@ -21,6 +21,7 @@ export const LANGUAGE_OPTIONS = [
 
 export const CURRENCY_OPTIONS = [
   { code: "USD", name: "US Dollar" },
+  { code: "MYR", name: "Malaysian Ringgit" },
   { code: "EUR", name: "Euro" },
   { code: "GBP", name: "British Pound" },
   { code: "INR", name: "Indian Rupee" },
